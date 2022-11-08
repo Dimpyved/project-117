@@ -10,11 +10,11 @@
     font-family: 'Oswald', sans-serif;
 }
 body{
-    background-color: greenyellow;
+    background-color: plum;
 }
 h1{
-    background-color: cornsilk;
-    color: rgb(38,0,255);
+    background-color: rgb(247, 220, 255);
+    color: rgb(176, 43, 233);
     font-family: 'Oswald', sans-serif;
 }
 #show_sketch{
@@ -28,5 +28,5 @@ p{
 #sketch_to_be_drawn{
     font-family: 'Oswald', sans-serif;
     font-size: 25px;
-    color: red;
+    color: rgb(237, 81, 167);
 }
